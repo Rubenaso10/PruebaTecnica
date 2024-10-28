@@ -1,0 +1,7 @@
+C:\Users\luisr\source\repos\ParteUno\ParteUno\obj\Debug\net8.0\ParteUno.csproj.AssemblyReference.cache
+C:\Users\luisr\source\repos\ParteUno\ParteUno\obj\Debug\net8.0\ParteUno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisr\source\repos\ParteUno\ParteUno\obj\Debug\net8.0\ParteUno.AssemblyInfoInputs.cache
+C:\Users\luisr\source\repos\ParteUno\ParteUno\obj\Debug\net8.0\ParteUno.AssemblyInfo.cs
+C:\Users\luisr\source\repos\ParteUno\ParteUno\obj\Debug\net8.0\ParteUno.csproj.CoreCompileInputs.cache
+C:\Users\luisr\source\repos\ParteUno\ParteUno\obj\Debug\net8.0\ParteUno.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luisr\source\repos\ParteUno\ParteUno\obj\Debug\net8.0\ParteUno.MvcApplicationPartsAssemblyInfo.cache
