@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\luisr\\source\\repos\\ParteUno\\",
+  "WorkspaceRootPath": "C:\\Users\\luisr\\Documentos\\PruebaTecnicaPrinter\\ParteUno\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2DCBD75F-A1C1-46A9-A8D1-9C3C3F601CAD}|ParteUno\\ParteUno.csproj|c:\\users\\luisr\\source\\repos\\parteuno\\parteuno\\controllers\\controladorproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2DCBD75F-A1C1-46A9-A8D1-9C3C3F601CAD}|ParteUno\\ParteUno.csproj|c:\\users\\luisr\\documentos\\pruebatecnicaprinter\\parteuno\\parteuno\\controllers\\controladorproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DCBD75F-A1C1-46A9-A8D1-9C3C3F601CAD}|ParteUno\\ParteUno.csproj|solutionrelative:parteuno\\controllers\\controladorproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DCBD75F-A1C1-46A9-A8D1-9C3C3F601CAD}|ParteUno\\ParteUno.csproj|c:\\users\\luisr\\source\\repos\\parteuno\\parteuno\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2DCBD75F-A1C1-46A9-A8D1-9C3C3F601CAD}|ParteUno\\ParteUno.csproj|c:\\users\\luisr\\documentos\\pruebatecnicaprinter\\parteuno\\parteuno\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DCBD75F-A1C1-46A9-A8D1-9C3C3F601CAD}|ParteUno\\ParteUno.csproj|solutionrelative:parteuno\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ControladorProductos.cs",
-              "DocumentMoniker": "C:\\Users\\luisr\\source\\repos\\ParteUno\\ParteUno\\Controllers\\ControladorProductos.cs",
+              "DocumentMoniker": "C:\\Users\\luisr\\Documentos\\PruebaTecnicaPrinter\\ParteUno\\ParteUno\\Controllers\\ControladorProductos.cs",
               "RelativeDocumentMoniker": "ParteUno\\Controllers\\ControladorProductos.cs",
-              "ToolTip": "C:\\Users\\luisr\\source\\repos\\ParteUno\\ParteUno\\Controllers\\ControladorProductos.cs",
+              "ToolTip": "C:\\Users\\luisr\\Documentos\\PruebaTecnicaPrinter\\ParteUno\\ParteUno\\Controllers\\ControladorProductos.cs",
               "RelativeToolTip": "ParteUno\\Controllers\\ControladorProductos.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowAMAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T21:28:33.641Z",
               "EditorCaption": ""
@@ -37,11 +37,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\luisr\\source\\repos\\ParteUno\\ParteUno\\Models\\Producto.cs",
+              "DocumentMoniker": "C:\\Users\\luisr\\Documentos\\PruebaTecnicaPrinter\\ParteUno\\ParteUno\\Models\\Producto.cs",
               "RelativeDocumentMoniker": "ParteUno\\Models\\Producto.cs",
-              "ToolTip": "C:\\Users\\luisr\\source\\repos\\ParteUno\\ParteUno\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\luisr\\Documentos\\PruebaTecnicaPrinter\\ParteUno\\ParteUno\\Models\\Producto.cs",
               "RelativeToolTip": "ParteUno\\Models\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T21:22:47.811Z",
               "EditorCaption": ""

@@ -452,11 +452,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luisr\\source\\repos\\ParteUno\\ParteUno\\ParteUno.csproj",
+      "projectUniqueName": "C:\\Users\\luisr\\Documentos\\PruebaTecnicaPrinter\\ParteUno\\ParteUno\\ParteUno.csproj",
       "projectName": "ParteUno",
-      "projectPath": "C:\\Users\\luisr\\source\\repos\\ParteUno\\ParteUno\\ParteUno.csproj",
+      "projectPath": "C:\\Users\\luisr\\Documentos\\PruebaTecnicaPrinter\\ParteUno\\ParteUno\\ParteUno.csproj",
       "packagesPath": "C:\\Users\\luisr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luisr\\source\\repos\\ParteUno\\ParteUno\\obj\\",
+      "outputPath": "C:\\Users\\luisr\\Documentos\\PruebaTecnicaPrinter\\ParteUno\\ParteUno\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luisr\\AppData\\Roaming\\NuGet\\NuGet.Config",
