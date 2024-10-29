@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luisr\\source\\repos\\ParteCuatro\\ParteCuatro\\ParteCuatro.csproj",
+      "projectUniqueName": "C:\\Users\\luisr\\Documentos\\PruebaTecnicaPrinter\\ParteCuatro\\ParteCuatro\\ParteCuatro.csproj",
       "projectName": "ParteCuatro",
-      "projectPath": "C:\\Users\\luisr\\source\\repos\\ParteCuatro\\ParteCuatro\\ParteCuatro.csproj",
+      "projectPath": "C:\\Users\\luisr\\Documentos\\PruebaTecnicaPrinter\\ParteCuatro\\ParteCuatro\\ParteCuatro.csproj",
       "packagesPath": "C:\\Users\\luisr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luisr\\source\\repos\\ParteCuatro\\ParteCuatro\\obj\\",
+      "outputPath": "C:\\Users\\luisr\\Documentos\\PruebaTecnicaPrinter\\ParteCuatro\\ParteCuatro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luisr\\AppData\\Roaming\\NuGet\\NuGet.Config",

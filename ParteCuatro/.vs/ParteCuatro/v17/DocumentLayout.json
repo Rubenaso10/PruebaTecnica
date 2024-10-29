@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\luisr\\source\\repos\\ParteCuatro\\",
+  "WorkspaceRootPath": "C:\\Users\\luisr\\Documentos\\PruebaTecnicaPrinter\\ParteCuatro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{391B0AAC-AE37-4170-A236-BEE4C71024C7}|ParteCuatro\\ParteCuatro.csproj|c:\\users\\luisr\\source\\repos\\partecuatro\\partecuatro\\pages\\producto.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{391B0AAC-AE37-4170-A236-BEE4C71024C7}|ParteCuatro\\ParteCuatro.csproj|solutionrelative:partecuatro\\pages\\producto.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\luisr\\Documentos\\PruebaTecnicaPrinter\\ParteCuatro\\ParteCuatro\\Pages\\Producto.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ParteCuatro\\Pages\\Producto.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{391B0AAC-AE37-4170-A236-BEE4C71024C7}|ParteCuatro\\ParteCuatro.csproj|c:\\users\\luisr\\source\\repos\\partecuatro\\partecuatro\\pages\\producto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{391B0AAC-AE37-4170-A236-BEE4C71024C7}|ParteCuatro\\ParteCuatro.csproj|solutionrelative:partecuatro\\pages\\producto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\luisr\\Documentos\\PruebaTecnicaPrinter\\ParteCuatro\\ParteCuatro\\Pages\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ParteCuatro\\Pages\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{391B0AAC-AE37-4170-A236-BEE4C71024C7}|ParteCuatro\\ParteCuatro.csproj|c:\\users\\luisr\\source\\repos\\partecuatro\\partecuatro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{391B0AAC-AE37-4170-A236-BEE4C71024C7}|ParteCuatro\\ParteCuatro.csproj|solutionrelative:partecuatro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\luisr\\Documentos\\PruebaTecnicaPrinter\\ParteCuatro\\ParteCuatro\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ParteCuatro\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{391B0AAC-AE37-4170-A236-BEE4C71024C7}|ParteCuatro\\ParteCuatro.csproj|c:\\users\\luisr\\source\\repos\\partecuatro\\partecuatro\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{391B0AAC-AE37-4170-A236-BEE4C71024C7}|ParteCuatro\\ParteCuatro.csproj|solutionrelative:partecuatro\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\luisr\\Documentos\\PruebaTecnicaPrinter\\ParteCuatro\\ParteCuatro\\Pages\\Producto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ParteCuatro\\Pages\\Producto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\luisr\\source\\repos\\ParteCuatro\\ParteCuatro\\Pages\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\luisr\\Documentos\\PruebaTecnicaPrinter\\ParteCuatro\\ParteCuatro\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ParteCuatro\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\luisr\\source\\repos\\ParteCuatro\\ParteCuatro\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\luisr\\Documentos\\PruebaTecnicaPrinter\\ParteCuatro\\ParteCuatro\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ParteCuatro\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAACYAAAAAAAAAAAAAADIAAACKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -44,9 +44,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\luisr\\source\\repos\\ParteCuatro\\ParteCuatro\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\luisr\\Documentos\\PruebaTecnicaPrinter\\ParteCuatro\\ParteCuatro\\Program.cs",
               "RelativeDocumentMoniker": "ParteCuatro\\Program.cs",
-              "ToolTip": "C:\\Users\\luisr\\source\\repos\\ParteCuatro\\ParteCuatro\\Program.cs",
+              "ToolTip": "C:\\Users\\luisr\\Documentos\\PruebaTecnicaPrinter\\ParteCuatro\\ParteCuatro\\Program.cs",
               "RelativeToolTip": "ParteCuatro\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -56,27 +56,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Producto.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\luisr\\source\\repos\\ParteCuatro\\ParteCuatro\\Pages\\Producto.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\luisr\\Documentos\\PruebaTecnicaPrinter\\ParteCuatro\\ParteCuatro\\Pages\\Producto.cshtml.cs",
               "RelativeDocumentMoniker": "ParteCuatro\\Pages\\Producto.cshtml.cs",
-              "ToolTip": "C:\\Users\\luisr\\source\\repos\\ParteCuatro\\ParteCuatro\\Pages\\Producto.cshtml.cs",
+              "ToolTip": "C:\\Users\\luisr\\Documentos\\PruebaTecnicaPrinter\\ParteCuatro\\ParteCuatro\\Pages\\Producto.cshtml.cs",
               "RelativeToolTip": "ParteCuatro\\Pages\\Producto.cshtml.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAIwBgAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T18:23:42.747Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Producto.cshtml",
-              "DocumentMoniker": "C:\\Users\\luisr\\source\\repos\\ParteCuatro\\ParteCuatro\\Pages\\Producto.cshtml",
+              "DocumentMoniker": "C:\\Users\\luisr\\Documentos\\PruebaTecnicaPrinter\\ParteCuatro\\ParteCuatro\\Pages\\Producto.cshtml",
               "RelativeDocumentMoniker": "ParteCuatro\\Pages\\Producto.cshtml",
-              "ToolTip": "C:\\Users\\luisr\\source\\repos\\ParteCuatro\\ParteCuatro\\Pages\\Producto.cshtml",
+              "ToolTip": "C:\\Users\\luisr\\Documentos\\PruebaTecnicaPrinter\\ParteCuatro\\ParteCuatro\\Pages\\Producto.cshtml",
               "RelativeToolTip": "ParteCuatro\\Pages\\Producto.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-28T18:22:45.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T18:22:45.923Z"
             }
           ]
         }
